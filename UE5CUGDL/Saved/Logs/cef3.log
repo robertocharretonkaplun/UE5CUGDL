@@ -1,5 +1,15 @@
-[25540:8024:0416/173257.205:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[25540:2088:0416/173257.448:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
-[25540:8024:0416/173257.531:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[6720:14196:0416/173312.371:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-4AD0DFF5F2ED8ECCBCA2CAC263AA0F25 will be ignored
-[25540:8024:0416/183832.861:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
+[16820:25016:0514/084702.725:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[16820:29560:0514/084702.913:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[16820:25016:0514/084703.002:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[16820:28180:0514/084713.472:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\rchar\OneDrive\Documentos\GitHub\UE5CUGDL\UE5CUGDL\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\rchar\OneDrive\Documentos\GitHub\UE5CUGDL\UE5CUGDL\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[16820:28180:0514/084713.475:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\rchar\OneDrive\Documentos\GitHub\UE5CUGDL\UE5CUGDL\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\rchar\OneDrive\Documentos\GitHub\UE5CUGDL\UE5CUGDL\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[16820:28180:0514/084713.478:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\rchar\OneDrive\Documentos\GitHub\UE5CUGDL\UE5CUGDL\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\rchar\OneDrive\Documentos\GitHub\UE5CUGDL\UE5CUGDL\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[16820:28180:0514/084713.480:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\rchar\OneDrive\Documentos\GitHub\UE5CUGDL\UE5CUGDL\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\rchar\OneDrive\Documentos\GitHub\UE5CUGDL\UE5CUGDL\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[16820:28180:0514/084719.279:WARNING:value_store_frontend.cc(47)] Reading ahfgeienlihckogmohjhadlkjgocpleb.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[16820:28180:0514/084719.281:WARNING:value_store_frontend.cc(47)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[26524:19372:0514/084720.269:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-2D4EEDE9BB8A5F17FCA9780411A0B447 will be ignored
+[16820:25016:0514/084742.080:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[16820:25016:0514/084747.298:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[16820:25016:0514/084957.986:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[16820:25016:0514/085007.989:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[16820:25016:0514/085516.682:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
