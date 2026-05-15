@@ -1,15 +1,59 @@
-[16820:25016:0514/084702.725:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[16820:29560:0514/084702.913:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
-[16820:25016:0514/084703.002:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[16820:28180:0514/084713.472:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\rchar\OneDrive\Documentos\GitHub\UE5CUGDL\UE5CUGDL\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\rchar\OneDrive\Documentos\GitHub\UE5CUGDL\UE5CUGDL\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[16820:28180:0514/084713.475:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\rchar\OneDrive\Documentos\GitHub\UE5CUGDL\UE5CUGDL\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\rchar\OneDrive\Documentos\GitHub\UE5CUGDL\UE5CUGDL\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[16820:28180:0514/084713.478:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\rchar\OneDrive\Documentos\GitHub\UE5CUGDL\UE5CUGDL\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\rchar\OneDrive\Documentos\GitHub\UE5CUGDL\UE5CUGDL\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[16820:28180:0514/084713.480:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\rchar\OneDrive\Documentos\GitHub\UE5CUGDL\UE5CUGDL\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\rchar\OneDrive\Documentos\GitHub\UE5CUGDL\UE5CUGDL\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[16820:28180:0514/084719.279:WARNING:value_store_frontend.cc(47)] Reading ahfgeienlihckogmohjhadlkjgocpleb.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[16820:28180:0514/084719.281:WARNING:value_store_frontend.cc(47)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[26524:19372:0514/084720.269:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-2D4EEDE9BB8A5F17FCA9780411A0B447 will be ignored
-[16820:25016:0514/084742.080:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[16820:25016:0514/084747.298:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[16820:25016:0514/084957.986:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[16820:25016:0514/085007.989:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[16820:25016:0514/085516.682:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
+[34760:2096:0515/153100.519:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[34760:1520:0515/153100.831:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[34760:2096:0515/153100.981:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[34760:1520:0515/153124.216:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\rchar\OneDrive\Documentos\GitHub\UE5CUGDL\UE5CUGDL\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\rchar\OneDrive\Documentos\GitHub\UE5CUGDL\UE5CUGDL\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[34760:1520:0515/153124.223:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\rchar\OneDrive\Documentos\GitHub\UE5CUGDL\UE5CUGDL\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\rchar\OneDrive\Documentos\GitHub\UE5CUGDL\UE5CUGDL\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[34760:1520:0515/153124.225:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\rchar\OneDrive\Documentos\GitHub\UE5CUGDL\UE5CUGDL\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\rchar\OneDrive\Documentos\GitHub\UE5CUGDL\UE5CUGDL\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[34760:1520:0515/153124.227:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\rchar\OneDrive\Documentos\GitHub\UE5CUGDL\UE5CUGDL\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\rchar\OneDrive\Documentos\GitHub\UE5CUGDL\UE5CUGDL\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[34760:1520:0515/153126.790:WARNING:value_store_frontend.cc(47)] Reading ahfgeienlihckogmohjhadlkjgocpleb.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[34760:1520:0515/153126.795:WARNING:value_store_frontend.cc(47)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[29128:5320:0515/153127.257:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-E431CB63163B70BE656859921902E99F will be ignored
+[17292:3372:0515/153127.499:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[17292:3372:0515/153127.522:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[17292:3372:0515/153127.536:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[17292:3372:0515/153127.569:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[34760:11356:0515/153129.719:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[17292:3372:0515/153129.962:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[17292:3372:0515/153129.993:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[17292:3372:0515/153130.020:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[34760:2096:0515/161912.707:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[34760:2096:0515/161917.918:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[34760:2096:0515/161937.923:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[34760:2096:0515/162003.089:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[34760:2096:0515/162008.152:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[34760:2096:0515/162013.187:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[34760:2096:0515/162018.245:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[34760:2096:0515/162023.244:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[34760:2096:0515/162028.383:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[34760:2096:0515/162033.430:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[34760:2096:0515/162038.504:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[34760:2096:0515/162043.502:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[34760:2096:0515/162048.561:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[34760:2096:0515/162053.585:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[34760:2096:0515/162058.620:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[34760:2096:0515/162108.727:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[34760:2096:0515/162113.986:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[34760:2096:0515/162119.273:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[34760:2096:0515/162124.296:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[34760:2096:0515/162129.332:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[34760:2096:0515/162134.396:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[34760:2096:0515/162139.420:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[34760:2096:0515/162144.421:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[34760:2096:0515/162149.422:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[34760:2096:0515/162154.423:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[34760:2096:0515/162159.424:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[34760:2096:0515/162204.426:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[34760:2096:0515/162209.425:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[34760:2096:0515/162214.471:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[34760:2096:0515/162219.524:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[34760:2096:0515/162224.556:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[34760:2096:0515/162229.703:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[34760:2096:0515/162234.704:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[34760:2096:0515/162239.704:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[34760:2096:0515/162244.940:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[34760:2096:0515/162249.950:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[34760:2096:0515/162254.970:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[34760:2096:0515/163619.103:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[34760:2096:0515/163624.344:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[34760:2096:0515/164855.782:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[34760:2096:0515/165251.986:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
