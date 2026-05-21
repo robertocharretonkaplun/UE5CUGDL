@@ -1,59 +1,27 @@
-[34760:2096:0515/153100.519:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[34760:1520:0515/153100.831:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
-[34760:2096:0515/153100.981:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[34760:1520:0515/153124.216:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\rchar\OneDrive\Documentos\GitHub\UE5CUGDL\UE5CUGDL\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\rchar\OneDrive\Documentos\GitHub\UE5CUGDL\UE5CUGDL\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[34760:1520:0515/153124.223:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\rchar\OneDrive\Documentos\GitHub\UE5CUGDL\UE5CUGDL\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\rchar\OneDrive\Documentos\GitHub\UE5CUGDL\UE5CUGDL\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[34760:1520:0515/153124.225:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\rchar\OneDrive\Documentos\GitHub\UE5CUGDL\UE5CUGDL\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\rchar\OneDrive\Documentos\GitHub\UE5CUGDL\UE5CUGDL\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[34760:1520:0515/153124.227:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\rchar\OneDrive\Documentos\GitHub\UE5CUGDL\UE5CUGDL\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\rchar\OneDrive\Documentos\GitHub\UE5CUGDL\UE5CUGDL\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[34760:1520:0515/153126.790:WARNING:value_store_frontend.cc(47)] Reading ahfgeienlihckogmohjhadlkjgocpleb.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[34760:1520:0515/153126.795:WARNING:value_store_frontend.cc(47)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[29128:5320:0515/153127.257:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-E431CB63163B70BE656859921902E99F will be ignored
-[17292:3372:0515/153127.499:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
-[17292:3372:0515/153127.522:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
-[17292:3372:0515/153127.536:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
-[17292:3372:0515/153127.569:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
-[34760:11356:0515/153129.719:ERROR:cast_crl.cc(443)] CRL - Verification failed.
-[17292:3372:0515/153129.962:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
-[17292:3372:0515/153129.993:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
-[17292:3372:0515/153130.020:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
-[34760:2096:0515/161912.707:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[34760:2096:0515/161917.918:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[34760:2096:0515/161937.923:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[34760:2096:0515/162003.089:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[34760:2096:0515/162008.152:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[34760:2096:0515/162013.187:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[34760:2096:0515/162018.245:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[34760:2096:0515/162023.244:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[34760:2096:0515/162028.383:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[34760:2096:0515/162033.430:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[34760:2096:0515/162038.504:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[34760:2096:0515/162043.502:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[34760:2096:0515/162048.561:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[34760:2096:0515/162053.585:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[34760:2096:0515/162058.620:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[34760:2096:0515/162108.727:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[34760:2096:0515/162113.986:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[34760:2096:0515/162119.273:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[34760:2096:0515/162124.296:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[34760:2096:0515/162129.332:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[34760:2096:0515/162134.396:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[34760:2096:0515/162139.420:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[34760:2096:0515/162144.421:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[34760:2096:0515/162149.422:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[34760:2096:0515/162154.423:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[34760:2096:0515/162159.424:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[34760:2096:0515/162204.426:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[34760:2096:0515/162209.425:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[34760:2096:0515/162214.471:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[34760:2096:0515/162219.524:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[34760:2096:0515/162224.556:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[34760:2096:0515/162229.703:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[34760:2096:0515/162234.704:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[34760:2096:0515/162239.704:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[34760:2096:0515/162244.940:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[34760:2096:0515/162249.950:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[34760:2096:0515/162254.970:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[34760:2096:0515/163619.103:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[34760:2096:0515/163624.344:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[34760:2096:0515/164855.782:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[34760:2096:0515/165251.986:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
+[7236:37180:0520/160700.725:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[7236:32240:0520/160701.030:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[7236:37180:0520/160701.157:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[7236:32240:0520/160708.951:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\rchar\Documents\GitHub\UE5CUGDL\UE5CUGDL\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\rchar\Documents\GitHub\UE5CUGDL\UE5CUGDL\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[7236:32240:0520/160708.953:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\rchar\Documents\GitHub\UE5CUGDL\UE5CUGDL\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\rchar\Documents\GitHub\UE5CUGDL\UE5CUGDL\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[7236:32240:0520/160708.956:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\rchar\Documents\GitHub\UE5CUGDL\UE5CUGDL\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\rchar\Documents\GitHub\UE5CUGDL\UE5CUGDL\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[7236:32240:0520/160708.959:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\rchar\Documents\GitHub\UE5CUGDL\UE5CUGDL\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\rchar\Documents\GitHub\UE5CUGDL\UE5CUGDL\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[7236:34276:0520/160712.539:WARNING:value_store_frontend.cc(47)] Reading ahfgeienlihckogmohjhadlkjgocpleb.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[7236:34276:0520/160712.541:WARNING:value_store_frontend.cc(47)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[33184:37572:0520/160712.965:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-FEB036C1F999D61419935C0D637AA46F will be ignored
+[7236:34176:0520/160714.755:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[7236:37180:0520/165937.931:ERROR:device_event_log_impl.cc(196)] [16:59:37.830] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[7236:37180:0520/174319.924:ERROR:device_event_log_impl.cc(196)] [17:43:19.899] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[7236:37180:0520/174319.961:ERROR:device_event_log_impl.cc(196)] [17:43:19.961] USB: usb_service_win.cc:308 SetupDiEnumDeviceInterfaces: No more data is available. (0x103)
+[7236:37180:0520/174320.000:ERROR:device_event_log_impl.cc(196)] [17:43:19.985] USB: usb_service_win.cc:308 SetupDiEnumDeviceInterfaces: No more data is available. (0x103)
+[7236:37180:0520/175040.651:ERROR:device_event_log_impl.cc(196)] [17:50:40.386] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[7236:37180:0520/175631.478:ERROR:device_event_log_impl.cc(196)] [17:56:31.478] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[7236:37180:0520/175631.659:ERROR:device_event_log_impl.cc(196)] [17:56:31.653] USB: usb_service_win.cc:308 SetupDiEnumDeviceInterfaces: No more data is available. (0x103)
+[7236:37180:0520/175633.423:ERROR:device_event_log_impl.cc(196)] [17:56:33.418] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[7236:37180:0520/175647.190:ERROR:device_event_log_impl.cc(196)] [17:56:47.190] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[7236:37180:0520/175647.496:ERROR:device_event_log_impl.cc(196)] [17:56:47.497] USB: usb_service_win.cc:308 SetupDiEnumDeviceInterfaces: No more data is available. (0x103)
+[7236:37180:0520/175647.543:ERROR:device_event_log_impl.cc(196)] [17:56:47.528] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[7236:37180:0520/175647.561:ERROR:device_event_log_impl.cc(196)] [17:56:47.550] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[7236:37180:0520/175647.579:ERROR:device_event_log_impl.cc(196)] [17:56:47.566] USB: usb_service_win.cc:308 SetupDiEnumDeviceInterfaces: No more data is available. (0x103)
+[7236:37180:0520/175647.611:ERROR:device_event_log_impl.cc(196)] [17:56:47.603] USB: usb_service_win.cc:308 SetupDiEnumDeviceInterfaces: No more data is available. (0x103)
+[26492:28768:0520/185049.056:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame C-17C928A446D2C0992F7F22A5AEC1E8E3 will be ignored
+[7236:37180:0520/200122.266:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
